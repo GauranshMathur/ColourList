@@ -1,4 +1,8 @@
 import ReadFile
+import CreateFile
+
+CreateFile.fileCreateIfNotExist()
+
 
 def getHexOfColour(fileName,name):
 	'''
