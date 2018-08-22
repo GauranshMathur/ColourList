@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: ColourList
+Version: 1.0
+Summary: A colour module made for web design
+Home-page: https://github.com/GauranshMathur/ColourList
+Author: Gauransh Mathur
+Author-email: gauranshmathur1999@gmail.com
+License: UNKNOWN
+Description: # ColourList 
+        This is a colour list python module that you can use to create colourfull websites. Also you can add your own favorite colours
+        to make the module more customoised to yourself.
+        
+        ## Getting started
+        You can download the module in itself and use it as that currently. The pip install will be available soon.
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
